@@ -1,4 +1,10 @@
-## wanggoNya 🍊
+# wanggoNya 🍊
+
+<p>
+  🎓BS in Geology, <i>KNU, South Korea</i><br>
+  🧑‍💻Studying Web programming, <i>KoreaIT Class, South Korea</i>
+</b></p>
+
 
   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
   
@@ -32,7 +38,7 @@ I'm studying <b>front-end development</b> ✍️ using Window OS,
 <p>
   <a href=https://wanggonya.tistory.com/ target="_blank"><img src="https://img.shields.io/badge/TECH BLOG-FFE4B5?style=flat-square&logo=tvtime&logoColor=black"/></a>
   <a href="mailto:tndus6384@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-82E0AA?style=flat-square&logo=naver&logoColor=black"/></a>
-  <a href="https://github.com/wanggoNya" target="_blank"><img src="https://img.shields.io/badge/GITHUB-D7DBDD?style=flat-square&logo=github&logoColor=black"/></a>
+  <a href="https://github.com/wanggoNya" target="_blank"><img src="https://img.shields.io/badge/GITHUB-D7DBDD?style=flat-square&logo=github&logoColor=black"/></a><br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwanggoNya&count_bg=%239DA09A&title_bg=%23E5BF49&icon=github.svg&icon_color=%23000000&title=Github&edge_flat=true"/></a>
   
 
