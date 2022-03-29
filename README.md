@@ -11,7 +11,8 @@
 ### 👋&nbsp; Hi there! 
 
 I'm studying <b>front-end development</b> ✍️ using Window OS,
-<br>interested in <b>the visual changes implemented in code</b>, 🌟 So I'm studying hard❕
+<br>interested in <b>the visual changes implemented in code</b>, 🌟 <br>
+So I'm studying hard❕
   
 ### What I'm studying right now is 🏃
 <p>
