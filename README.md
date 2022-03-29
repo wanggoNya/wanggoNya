@@ -1,13 +1,13 @@
 ## wanggoNya 🍊
 
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact" height="165">
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
   
-#### 👋&nbsp; Hi there! 
+### 👋&nbsp; Hi there! 
 
 I'm studying <b>front-end development</b> ✍️ using Window OS,
 <br>interested in <b>the visual changes implemented in code</b>, 🌟 So I'm studying hard❕
   
-#### What I'm studying right now is 🏃
+### What I'm studying right now is 🏃
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -15,9 +15,9 @@ I'm studying <b>front-end development</b> ✍️ using Window OS,
   
 </p>
 
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=wanggoNya" height="165">
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
 
-#### Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
