@@ -24,7 +24,7 @@ I'm studying <b>front-end development</b> ✍️ using Window OS,
 #### 👇 connect with wanggoNya
 
 <p>
-  <a href=https://wanggonya.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TECH BLOG-FFE4B5?style=flat-square&logo=tvtime&logoColor=black"/></a>
+  <a href=https://wanggonya.tistory.com/ target="_blank"><img src="https://img.shields.io/badge/TECH BLOG-FFE4B5?style=flat-square&logo=tvtime&logoColor=black"/></a>
   <a href="mailto:tndus6384@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-82E0AA?style=flat-square&logo=naver&logoColor=black"/></a>
   <a href="https://github.com/wanggoNya" target="_blank"><img src="https://img.shields.io/badge/GITHUB-D7DBDD?style=flat-square&logo=github&logoColor=black"/></a>
 </p>
