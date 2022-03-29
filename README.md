@@ -6,7 +6,6 @@
 </b></p>
 
 
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
   
 ### 👋&nbsp; Hi there! 
 
@@ -14,6 +13,8 @@ I'm studying <b>front-end development</b> ✍️ using Window OS,
 <br>interested in <b>the visual changes implemented in code</b>. 🌟 <br>
 So I'm studying hard❕
   
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
+    
 ### What I'm studying right now is 🏃
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -21,11 +22,9 @@ So I'm studying hard❕
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
   
 </p>
-
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
-
+ 
 ### Tools
-
+   
 <p>
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
@@ -33,7 +32,9 @@ So I'm studying hard❕
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
-  
+
+   <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
+
 #### 👇 connect with wanggoNya
 
 <p>
