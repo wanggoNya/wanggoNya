@@ -45,5 +45,3 @@ So I'm studying hard❕
 
 
 </p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wanggonya)](https://solved.ac/wanggonya)
