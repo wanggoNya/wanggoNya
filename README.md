@@ -1,7 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=wanggoNya🍊&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=191970&color=0:F4A500,100:F4A500)
 <div align="center">
  
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=wanggoNya🍊&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=191970&color=0:F4A500,100:F4A500)
  
  ### 👋Hi there!      
 
@@ -36,22 +35,15 @@ I'm studying <b>front-end development</b> ✍️ using Window OS,
 ## 🕸️Tools
    
 <p>
+ 
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Ju 🏃What I'm studying right now is <br>
 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white"/> pyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
  
