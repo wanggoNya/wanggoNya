@@ -46,4 +46,5 @@ So I'm studying hard❕
 
 </p>
 
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wanggonya)](https://github.com/wanggonya/wanggonya)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wanggonya)](https://solved.ac/wanggonya)
