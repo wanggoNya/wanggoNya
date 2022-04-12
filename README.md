@@ -13,7 +13,8 @@ I'm studying <b>front-end development</b> ✍️ using Window OS,
 <br>interested in <b>the visual changes implemented in code</b>. 🌟 <br>
 So I'm studying hard❕
   
-
+<br>
+<br>
     
 ### What I'm studying right now is 🏃
 <p>
@@ -24,7 +25,10 @@ So I'm studying hard❕
 </p>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
- 
+
+<br>
+<br>
+
 ### Tools
    
 <p>
@@ -37,6 +41,8 @@ So I'm studying hard❕
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wanggonya">
     
+<br>
+<br>
 
 #### 👇 connect with wanggoNya
 
