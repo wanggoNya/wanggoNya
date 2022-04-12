@@ -35,8 +35,7 @@ So I'm studying hard❕
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wanggonya)](https://solved.ac/wanggonya)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wanggonya">
     
 
 #### 👇 connect with wanggoNya
