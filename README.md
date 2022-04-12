@@ -33,7 +33,7 @@ So I'm studying hard❕
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-    <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
+    
 
 #### 👇 connect with wanggoNya
 
@@ -45,6 +45,6 @@ So I'm studying hard❕
 
 
 </p>
-
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wanggonya)](https://solved.ac/wanggonya)
