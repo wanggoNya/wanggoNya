@@ -44,6 +44,6 @@ So I'm studying hard❕
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwanggoNya&count_bg=%239DA09A&title_bg=%23E5BF49&icon=github.svg&icon_color=%23000000&title=Github&edge_flat=true"/></a>
 
 [![Solved.ac
-wanggonya](http://mazassumnida.wtf/api/mini/generate_badge?boj=wanggonya)](https://github.com/mazassumnida/mazassumnida)
+Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wanggonya)](https://github.com/mazassumnida/wanggonya)
 
 </p>
