@@ -5,7 +5,7 @@
   🧑‍💻Studying Web programming, <i>KoreaIT Class, South Korea</i>
 </b></p>
 
-
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
   
 ### 👋&nbsp; Hi there! 
 
@@ -13,7 +13,7 @@ I'm studying <b>front-end development</b> ✍️ using Window OS,
 <br>interested in <b>the visual changes implemented in code</b>. 🌟 <br>
 So I'm studying hard❕
   
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
+
     
 ### What I'm studying right now is 🏃
 <p>
@@ -22,6 +22,8 @@ So I'm studying hard❕
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
   
 </p>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
  
 ### Tools
    
@@ -33,6 +35,8 @@ So I'm studying hard❕
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wanggonya)](https://solved.ac/wanggonya)
     
 
 #### 👇 connect with wanggoNya
@@ -45,7 +49,4 @@ So I'm studying hard❕
 
 
 </p>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wanggonya)](https://solved.ac/wanggonya)
