@@ -4,7 +4,7 @@
  
  ### 👋Hi there!      
 
-I'm studying <b>front-end development</b> ✍️ using Window OS,
+I'm studying <b>web development</b> ✍️ using Window OS,
 <br>interested in <b>the visual changes implemented in code</b>. 🌟 <br>
 <b>So I'm studying hard❕</b>
  
