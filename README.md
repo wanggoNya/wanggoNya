@@ -4,8 +4,8 @@
  
  ### 👋Hi there!      
 
-I'm studying <b>web development</b> ✍️ using Window OS,
-<br>interested in <b>the visual changes implemented in code</b>. 🌟 <br>
+I'm studying <b>Backend development</b> ✍️ using Window OS,
+<br>interested in <b>the web development process implemented in code</b>.<br>
 <b>So I'm studying hard❕</b>
  
  <br>
@@ -22,11 +22,15 @@ I'm studying <b>web development</b> ✍️ using Window OS,
 ## 🏃What I'm studying right now is 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white"/> -->
  
 </p>
  
@@ -35,16 +39,20 @@ I'm studying <b>web development</b> ✍️ using Window OS,
 ## 🕸️Tools
    
 <p>
- 
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
-
+ 
+ <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+ 
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 
  
 </p>
