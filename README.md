@@ -63,7 +63,7 @@ I'm studying <b>Backend development</b> ✍️ using Window OS,
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
  
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wanggonya">
+
 <img align='center' src="http://mazandi.herokuapp.com/api?handle=wanggonya&theme=warm"/>
 
  <br>
