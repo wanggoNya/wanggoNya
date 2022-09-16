@@ -4,8 +4,8 @@
  
  ### 👋Hi there!      
 
-I'm studying <b>Backend development</b> ✍️ using Window OS,
-<br>interested in <b>the web development process implemented in code</b>.<br>
+I'm studying <b>Backend development</b> ✍️ using Linux OS,
+<br>interested in <b>computer science and c programming </b>.<br>
 <b>So I'm studying hard❕</b>
  
  <br>
@@ -14,32 +14,60 @@ I'm studying <b>Backend development</b> ✍️ using Window OS,
 ## 🍊About wanggoNya
 
 🎓BS in Geology, <i>KNU, South Korea</i><br>
-🧑‍💻Studying Web programming, <i>KoreaIT Class, South Korea</i>
- 
+🧑‍💻Studied Web programming, <i>KoreaIT Class, South Korea</i>
+
  <br>
  
  
-## 🏃What I'm studying right now is 
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white"/> -->
+## 🏃Tech Stack And 🕸️Tools
+ 
+ ### 🌌 network programing
+ <p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
+  
+ <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/>
+
+ <!-- tool -->
+  
+ <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/MobaXterm-000000?style=flat-square&logo=MobaXterm&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
  
 </p>
  
   <br>
  
-## 🕸️Tools
-   
+ 
+ ### 🌌 web development 
 <p>
-
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+ 
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  
+ <!-- tool -->
+ <br>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
@@ -56,8 +84,18 @@ I'm studying <b>Backend development</b> ✍️ using Window OS,
 
  
 </p>
+<br>
 
-  <br>
+ ### 🌌 Team Collaboration Tool
+ 
+ <p>
+ <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+ </p>
+ <br>
 
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
 
