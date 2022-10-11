@@ -45,7 +45,7 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  
   <br>
  
- 
+  <!-- 
  ### 🌌 web development 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -65,8 +65,10 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
  
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  
+
+  -->
  <!-- tool -->
+  <!--
  <br>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
  
@@ -81,7 +83,7 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
-
+-->
  
 </p>
 <br>
