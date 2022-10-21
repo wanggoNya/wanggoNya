@@ -1,20 +1,22 @@
+<!--
 <div align="center">
+-->
  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=wanggoNya🍊&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=191970&color=0:F4A500,100:F4A500)
- 
+ <!--
  ### 👋Hi there!      
 
 I'm studying <b>Backend development</b> ✍️ using Linux OS,
 <br>interested in <b>computer science and c programming </b>.<br>
 <b>So I'm studying hard❕</b>
- 
+ -->
  <br>
  
  
 ## 🍊About wanggoNya
 
 🎓BS in Geology, <i>KNU, South Korea</i><br>
-🧑‍💻Studied Web programming, <i>KoreaIT Class, South Korea</i>
+💻Studied Web programming, <i>KoreaIT Class, South Korea</i>
 
  <br>
  
@@ -43,9 +45,8 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  
 </p>
  
-  <br>
- 
   <!-- 
+    <br>
  ### 🌌 web development 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
