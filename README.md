@@ -9,9 +9,8 @@
 I'm studying <b>Backend development</b> ✍️ using Linux OS,
 <br>interested in <b>computer science and c programming </b>.<br>
 <b>So I'm studying hard❕</b>
- -->
  <br>
- 
+ -->
  
 ## 🍊About wanggoNya
 
