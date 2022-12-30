@@ -20,9 +20,9 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  <br>
  
  
-## 🏃Tech Stack And 🕸️Tools
+## Tech Stack And Tools
  
- ### 🌌 network programing
+ ### network programing
  <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
   
@@ -86,12 +86,12 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
--->
+
  
 </p>
 <br>
 
- ### 🌌 Team Collaboration Tool
+ ### Team Collaboration Tool
  
  <p>
  <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
@@ -106,6 +106,8 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
  
+
+-->
 
 
 
