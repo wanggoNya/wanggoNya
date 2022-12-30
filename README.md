@@ -22,7 +22,7 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  
 ## Tech Stack And Tools
  
-### network programing 
+### Network Programing 
  <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
   
