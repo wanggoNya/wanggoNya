@@ -12,17 +12,17 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  <br>
  -->
  
-## 🍊About wanggoNya
+## About wanggoNya
 
 🎓BS in Geology, <i>KNU, South Korea</i><br>
-💻Studied Web programming, <i>KoreaIT Class, South Korea</i>
+💻Certificated of <i>Java & Python-based AI development and application process</i>, <i>KoreaIT Class, South Korea</i>
 
  <br>
  
  
 ## Tech Stack And Tools
  
- ### network programing
+### network programing 
  <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
   
@@ -46,6 +46,23 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
 </p>
+
+ ### Team Collaboration Tool
+ 
+ <p>
+ <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+ 
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+ </p>
+ <br>
+<!-- 
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165"> -->
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
+ 
+ 
  
   <!-- 
     <br>
@@ -70,8 +87,9 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
   -->
- <!-- tool -->
-  <!--
+  
+ <!--
+ ### tool
  <br>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
  
@@ -89,27 +107,9 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
 
  
 </p>
-<br>
 
- ### Team Collaboration Tool
- 
- <p>
- <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
- 
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
- </p>
- <br>
-
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165">
-
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
- 
 
 -->
-
-
 
  <br>
   
