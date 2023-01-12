@@ -57,15 +57,13 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
  </p>
  <br>
+ 
 <!-- 
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165"> -->
-
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggoNya&layout=compact&&theme=gruvbox" height="165"> 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
  
- 
- 
-  <!-- 
-    <br>
+<br>
+
  ### 🌌 web development 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -86,9 +84,6 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-  -->
-  
- <!--
  ### tool
  <br>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
@@ -105,15 +100,11 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  
  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 
- 
 </p>
-
-
 -->
 
- <br>
   
-### 👇Connect with wanggoNya
+## 👇Connect with wanggoNya
 
 <p>
   <a href=https://wanggonya.github.io/ target="_blank"><img src="https://img.shields.io/badge/TECH BLOG-FFE4B5?style=flat-square&logo=github&logoColor=black"/></a>
