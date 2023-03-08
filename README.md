@@ -73,9 +73,9 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
  <br>
-<!-- </p>
+</p>
  ### tool
-<p> -->
+<p>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
