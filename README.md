@@ -61,7 +61,7 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=wanggoNya&theme=gruvbox" height="165">
  -->
 
- ### Sub Tech Stack and Tools In web development
+<!--  ### Sub Tech Stack and Tools In web development
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -87,7 +87,7 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
 </p>
 
   <br>
-  
+   -->
 ## 👇Connect with wanggoNya
 
 <p>
