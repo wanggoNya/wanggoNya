@@ -92,8 +92,8 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
 ## 👇Connect with wanggoNya
 
 <p>
-<a href=https://wanggonya.github.io/ target="_blank"><img src="https://img.shields.io/badge/GITHUB BLOG-000000?style=flat-square&logo=github&logoColor=white"/></a> 
-<a href=https://wanggonya.tistory.com/ target="_blank"><img src="https://img.shields.io/badge/T BLOG-FFE4B5?style=flat-square&logo=tvtime&logoColor=black"/></a> 
+<a href=https://wanggonya.tistory.com/ target="_blank"><img src="https://img.shields.io/badge/Tistory-FFE4B5?style=flat-square&logo=tvtime&logoColor=black"/></a> 
+<a href=https://wanggonya.github.io/ target="_blank"><img src="https://img.shields.io/badge/github.io-000000?style=flat-square&logo=github&logoColor=white"/></a> 
 <a href="mailto:tndus6384@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-82E0AA?style=flat-square&logo=naver&logoColor=black"/></a>
 <a href="https://github.com/wanggoNya" target="_blank"><img src="https://img.shields.io/badge/GITHUB-D7DBDD?style=flat-square&logo=github&logoColor=black"/></a><br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwanggoNya&count_bg=%23B8B4A5&title_bg=%23F8D26F&icon=github.svg&icon_color=%230C0C0C&title=Hits&edge_flat=true"/></a>
