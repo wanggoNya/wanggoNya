@@ -23,28 +23,34 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
 
  <p>
  <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=black"/>
+ 
+ <br>
+ 
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+ 
+ <br>
+ 
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=black"/>
- <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=black"/>
  
  <br>
  
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/>
 
  <!-- tool 
  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
+ <img src="https://img.shields.io/badge/secureCRT-000000?style=flat-square&logo=secureCRT&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
  -->
  <br>
   
- <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/>
- <img src="https://img.shields.io/badge/secureCRT-000000?style=flat-square&logo=secureCRT&logoColor=white"/> 
- <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
  
 </p>
 
