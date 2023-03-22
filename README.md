@@ -58,8 +58,8 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  
  <p>
  <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/>
- <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
  </p>
  <br>
  
@@ -98,7 +98,7 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
 ## 👇Connect with wanggoNya
 
 <p>
-<a href=https://wanggonya.tistory.com/ target="_blank"><img src="https://img.shields.io/badge/Tistory-FFE4B5?style=flat-square&logo=tvtime&logoColor=black"/></a> 
+<a href=https://wanggonya.tistory.com/ target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tvtime&logoColor=white"/></a> 
 <a href=https://wanggonya.github.io/ target="_blank"><img src="https://img.shields.io/badge/github.io-000000?style=flat-square&logo=github&logoColor=white"/></a> 
 <a href="mailto:tndus6384@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-82E0AA?style=flat-square&logo=naver&logoColor=black"/></a>
 <a href="https://github.com/wanggoNya" target="_blank"><img src="https://img.shields.io/badge/GITHUB-D7DBDD?style=flat-square&logo=github&logoColor=black"/></a><br>
