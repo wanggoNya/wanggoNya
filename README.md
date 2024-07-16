@@ -2,7 +2,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=wanggoNya🍊&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=191970&color=0:F4A500,100:F4A500)
  
 ## About wanggoNya
-⌨️Interested in **computer science & security, cloud, DevOps, and Linux in SW development.**<br>
+⌨️Interested in **Computer Science & Security, Cloud, DevOps, and Linux in SW development.**<br>
 🎓BS in Geology, <i>KNU, South Korea</i><br>
 💻Certificated of <i>Java & Python-based AI development and application process</i>, <i>KoreaIT Class, South Korea</i>
 
