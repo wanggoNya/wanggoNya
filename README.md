@@ -61,6 +61,13 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
  </p>
+ 
+ ### Etc.
+  <p>
+ <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+ </p>
+ 
  <br>
  
 <!-- 
