@@ -3,7 +3,7 @@
  
 ## About wanggoNya
 😶 Interested in System, Network, Linux Kernel, and DevOps.<br>
-🍊 2 years of experience in Network Security. Currently working at <i> SecuDAim, Seoul, South Korea </i><br>
+🍊 3 years of experience in Network Security. Currently working at <i> SecuDAim, Seoul, South Korea </i><br>
 🎓 BS in Geology, <i>Kongju National University, South Korea</i><br>
 
  <br>
