@@ -112,3 +112,7 @@ I'm studying <b>Backend development</b> ✍️ using Linux OS,
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwanggoNya&count_bg=%23B8B4A5&title_bg=%23F8D26F&icon=github.svg&icon_color=%230C0C0C&title=Hits&edge_flat=true"/></a>
 </p>
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{wanggonya}"/>
+</a>
