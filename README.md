@@ -2,7 +2,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=wanggoNya🍊&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=191970&color=0:F4A500,100:F4A500)
  
 ## About wanggoNya
-😶 Interested in System, Network, Linux Kernel, and DevOps.<br>
+😶 Interested in System, Network, Linux Kernel, and Organizational Culture.<br>
 🍊 3 years of experience in Network Security. Currently working at <i> SecuDAim, Seoul, South Korea </i><br>
 🎓 BS in Geology, <i>Kongju National University, South Korea</i><br>
 
